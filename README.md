@@ -18,7 +18,8 @@ Includes **exploratory data analysis (EDA)**, **feature engineering**, and **for
 
 ---
 
-## 📂 Project Structure                                                                             personal-biometrics-analytics/
+## 📂 Project Structure                                                                             
+personal-biometrics-analytics/
 │── data/                       # Synthetic biometric data
 │── notebooks/                  # Jupyter notebooks for EDA & modeling
 │   └── 01_EDA.ipynb
